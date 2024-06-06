@@ -2,9 +2,10 @@
 export default {
   // The project’s title; used in the sidebar and webpage titles.
   title: "Funfun Rosling",
-  theme: "dark", // "default", try "light", "dark", "slate", etc.
+
   footer: null, //"Built with Observable.", what to show in the footer (HTML)
   toc: false, // true, whether to show the table of contents
+  style: "fff-obs.css",
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
   // lets you organize them into sections and have unlisted pages.
